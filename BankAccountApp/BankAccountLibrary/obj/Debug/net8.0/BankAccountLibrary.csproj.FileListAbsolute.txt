@@ -1,0 +1,11 @@
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\bin\Debug\net8.0\BankAccountLibrary.deps.json
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\bin\Debug\net8.0\BankAccountLibrary.dll
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\bin\Debug\net8.0\BankAccountLibrary.pdb
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\obj\Debug\net8.0\BankAccountLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\obj\Debug\net8.0\BankAccountLibrary.AssemblyInfoInputs.cache
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\obj\Debug\net8.0\BankAccountLibrary.AssemblyInfo.cs
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\obj\Debug\net8.0\BankAccountLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\obj\Debug\net8.0\BankAccountLibrary.dll
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\obj\Debug\net8.0\refint\BankAccountLibrary.dll
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\obj\Debug\net8.0\BankAccountLibrary.pdb
+C:\Users\CDS2\Desktop\BankAccountApp\BankAccountLibrary\obj\Debug\net8.0\ref\BankAccountLibrary.dll
