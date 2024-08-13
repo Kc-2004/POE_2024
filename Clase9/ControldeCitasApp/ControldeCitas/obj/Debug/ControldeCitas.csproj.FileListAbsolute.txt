@@ -1,0 +1,10 @@
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\bin\Debug\ControldeCitas.exe.config
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\bin\Debug\ControldeCitas.exe
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\bin\Debug\ControldeCitas.pdb
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\obj\Debug\ControldeCitas.csproj.AssemblyReference.cache
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\obj\Debug\ControldeCitas.MainForm.resources
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\obj\Debug\ControldeCitas.Properties.Resources.resources
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\obj\Debug\ControldeCitas.csproj.GenerateResource.cache
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\obj\Debug\ControldeCitas.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\obj\Debug\ControldeCitas.exe
+C:\Users\CDS2\Documents\ControldeCitasApp\ControldeCitas\obj\Debug\ControldeCitas.pdb
