@@ -1,0 +1,17 @@
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.Form1.resources
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.Form2.resources
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.csproj.GenerateResource.cache
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.AssemblyInfoInputs.cache
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.AssemblyInfo.cs
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\bin\Debug\net8.0-windows\PracticaUnoApp.exe
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\bin\Debug\net8.0-windows\PracticaUnoApp.deps.json
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\bin\Debug\net8.0-windows\PracticaUnoApp.runtimeconfig.json
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\bin\Debug\net8.0-windows\PracticaUnoApp.dll
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\bin\Debug\net8.0-windows\PracticaUnoApp.pdb
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.dll
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\refint\PracticaUnoApp.dll
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.pdb
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\PracticaUnoApp.genruntimeconfig.cache
+C:\Users\CDS2\Desktop\PracticaUnoApp\PracticaUnoApp\obj\Debug\net8.0-windows\ref\PracticaUnoApp.dll
