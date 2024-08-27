@@ -1,0 +1,6 @@
+C:\Users\CDS2\Desktop\Parcial\BibliotecaApp\LibraryManagementSystemData\bin\Debug\LibraryManagementSystemData.dll
+C:\Users\CDS2\Desktop\Parcial\BibliotecaApp\LibraryManagementSystemData\bin\Debug\LibraryManagementSystemData.pdb
+C:\Users\CDS2\Desktop\Parcial\BibliotecaApp\LibraryManagementSystemData\obj\Debug\LibraryManagementSystemData.csproj.AssemblyReference.cache
+C:\Users\CDS2\Desktop\Parcial\BibliotecaApp\LibraryManagementSystemData\obj\Debug\LibraryManagementSystemData.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Desktop\Parcial\BibliotecaApp\LibraryManagementSystemData\obj\Debug\LibraryManagementSystemData.dll
+C:\Users\CDS2\Desktop\Parcial\BibliotecaApp\LibraryManagementSystemData\obj\Debug\LibraryManagementSystemData.pdb
